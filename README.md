@@ -41,7 +41,7 @@ A simple web application to learn basic Japanese vocabulary.
 
 ### 📫 Let’s Connect
 - GitHub: https://github.com/annisanurindriyanti19
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/annisanurindriyanti
+- Email: annisanurindriyanti@email.com
 
 🤝 Open for collaboration in *SEO, AI tools, data projects, and web applications*.
